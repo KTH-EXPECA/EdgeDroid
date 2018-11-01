@@ -1,0 +1,12 @@
+[submodule "Client"]
+	path = Client
+	url = git@github.com:molguin92/EdgeDroidClient.git
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:molguin92/EdgeDroidBackend.git
+[submodule "Results"]
+	path = Results
+	url = git@github.com:molguin92/EdgeDroidResults.git
+[submodule "Traces"]
+	path = Traces
+	url = git@github.com:molguin92/CognitiveAssistanceTraces.git
