@@ -11,3 +11,9 @@ See instructions in the README of the Client submodule.
 ### Setting up the Backend
 
 See instructions in the README of the Backend submodule.
+
+## License
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+See [LICENSE](LICENSE) for details.
